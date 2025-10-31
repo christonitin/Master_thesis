@@ -1,0 +1,75 @@
+% !TeX spellcheck = en_US
+\chapter{Chapter 1}%
+Citation: \cite{Pfeiffer2014}\par%
+Reference: \cref{fig:MyImage}\par%
+Figures:\par%
+\begin{figure}[htb]%
+    \centering%
+    %
+    % Including .png
+    \includegraphics[width=40mm]{figures/ImagePNG.png}%
+    %
+    \hspace*{5mm}%
+    %
+    % Including .pdf
+    \includegraphics[width=40mm]{figures/ImagePDF.pdf}\par%
+    %
+    % Including .tikz
+    \begingroup%
+        %\AMtikzExternalizeSkipNext%
+        \resizebox{40mm}{!}{\input{figures/ImageTIKZ.tikz}}%
+    \endgroup%
+    %
+    \hspace*{5mm}%
+    %
+    % Including .pdf_tex
+    \begingroup%
+        \def\svgwidth{40mm}%
+        \fontsize{25}{25}\selectfont%
+        \input{figures/ImagePDFTEX.pdf_tex}%
+    \endgroup%
+    %
+    \caption{\AMlangGerEng{Beschreibung des Bilds}{Image description}.}%
+    \label{fig:MyImage}%
+\end{figure}%
+%
+Plots:\par%
+\begin{figure}[htb]%
+    \centering%
+    \input{figures/plot_two_dim.tikz}%
+    \caption{Title of the 2D plot (using pgfplots).}%
+    \label{fig:PlotTwoDim}%
+\end{figure}%
+%
+\begin{figure}[htb]%
+    \centering%
+    \input{figures/plot_three_dim.tikz}%
+    \caption{Title of the 3D plot (using pgfplots).}%
+    \label{fig:PlotThreeDim}%
+\end{figure}%
+%
+%
+\section{Section 1}%
+\blindtext%
+%
+%
+\section{Section 2}%
+\blindtext%
+%
+%
+\subsection{Subsection 1}%
+\blindtext%
+%
+%
+\subsection{Subsection 2}%
+\blindtext%
+%
+%
+\subsection{Subsection 3}%
+\blindtext%
+%
+%
+\section{Section 3}%
+\blindtext%
+%
+%
