@@ -3138,9 +3138,9 @@
 % Chairs
 % ------
 % TUM School of Engineering and Design
-\def\AMlangChairEDAER{\AMlangGerEng{Lehrstuhl für Aerodynamik und Strömungsmechanik}{Chair of Aerodynamics and Fluid Mechanics}}%
+\def\AMlangChairEDAER{\AMlangGerEng{Lehrstuhl für Aerodynamik und Strömungsmechanik}{Software and systems engineering, ISAE-Supaero, Toulouse}}%
 \def\AMlangChairEDVIB{\AMlangGerEng{Lehrstuhl für Akustik mobiler Systeme}{Chair of Vibroacoustics of Vehicles and Machines}}%
-\def\AMlangChairEDAM{\AMlangGerEng{Lehrstuhl für Angewandte Mechanik}{Chair of Applied Mechanics}}%
+\def\AMlangChairEDAM{\AMlangGerEng{Lehrstuhl für Angewandte Mechanik}{Professor of Software and systems engineering,\newline ISAE-Supaero, Toulouse}}%
 \def\AMlangChairEDAPT{\AMlangGerEng{Lehrstuhl für Anlagen- und Prozesstechnik}{Chair of Plant and Process Technology}}%
 \def\AMlangChairEDAIS{\AMlangGerEng{Lehrstuhl für Automatisierung und Informationssysteme}{Chair of Automation and Information Systems}}%
 \def\AMlangChairEDIWB{\AMlangGerEng{Institut für Werkzeugmaschinen und Betriebswissenschaften (iwb)}{Institute for Machine Tools and Industrial Management (iwb)}}%
@@ -5140,66 +5140,13 @@
 %==================
 % President
 % ---------
-\def\AMnamesProfHerrmann{Prof.\ Dr.\ Dr.\ h.c.\ mult.\ Wolfgang A. Herrmann}%
-\def\AMnamesProfHofmann{Prof.\ Dr.\ Thomas Hofmann}%
-\def\AMnamesPresident{\AMnamesProfHofmann}%
+
 %
 % Active professors
 % -----------------
 % School of Mechanical Engineering
-\def\AMnamesProfAdams{Prof.\ Dr.-Ing.\ Nikolaus A. Adams}%
-\def\AMnamesProfBengler{Prof.\ Dr.\ phil.\ Klaus Bengler}%
-\def\AMnamesProfBerensmeier{Prof.\ Dr.\ Sonja Berensmeier}%
-\def\AMnamesProfBottasso{Prof.\ Dr.\ Carlo L. Bottasso}%
-\def\AMnamesProfCaccamo{Prof.\ Dr.\ Marco Caccamo}%
-\def\AMnamesProfDaub{Prof.\ Dr.\ Rüdiger Daub}%
-\def\AMnamesProfDrechsler{Prof.\ Dr.-Ing.\ Klaus Drechsler}%
-\def\AMnamesProfFottner{Prof.\ Dr.-Ing.\ Johannes Fottner}%
-\def\AMnamesProfGee{Prof.\ Dr.-Ing.\ Michael W. Gee}%
-\def\AMnamesProfGrosse{Prof.\ Dr.-Ing.\ habil.\ Dipl.-Geophys.\ Christian Große}%
-\def\AMnamesProfGuemmer{Prof.\ Dr.-Ing.\ Volker Gümmer}%
-\def\AMnamesProfGuenthner{Prof.\ Dr.-Ing.\ Willibald A. Günthner}%
-\def\AMnamesProfHaidn{Prof.\ Dr.-Ing.\ Oskar J. Haidn}%
-\def\AMnamesProfHajek{Prof.\ Dr.-Ing.\ Manfred Hajek}%
-\def\AMnamesProfHolzapfel{Prof.\ Dr.-Ing.\ Florian Holzapfel}%
-\def\AMnamesProfHornung{Prof.\ Dr.-Ing.\ Mirko Hornung}%
-\def\AMnamesProfKaltenbach{Prof.\ Dr.-Ing.\ Hans-Jakob Kaltenbach}%
-\def\AMnamesProfKlein{Prof.\ Dr.-Ing.\ Harald Klein}%
-\def\AMnamesProfKoutsourelakis{Prof.\ Phaedon-Stelios Koutsourelakis, Ph.D.}%
-\def\AMnamesProfKremling{Prof.\ Dr.-Ing.\ Andreas Kremling}%
-\def\AMnamesProfLieleg{Prof.\ Dr.\ Oliver Lieleg}%
-\def\AMnamesProfLienkamp{Prof.\ Dr.-Ing.\ Markus Lienkamp}%
-\def\AMnamesProfLindemann{Prof.\ Dr.-Ing.\ Udo Lindemann}%
-\def\AMnamesProfLohmann{Prof.\ Dr.-Ing.\ habil.\ Boris Lohmann}%
-\def\AMnamesProfLueth{Prof.\ Dr.\ rer.\ nat.\ Tim C. Lüth}%
-\def\AMnamesProfMacianJuan{Prof.\ Rafael Macián-Juan, Ph.D.}%
-\def\AMnamesProfMarburg{Prof.\ Dr.-Ing.\ Steffen Marburg}%
-\def\AMnamesProfNeu{Prof.\ Dr.\ Rudolf Neu}%
-\def\AMnamesProfPolifke{Prof.\ Wolfgang Polifke, Ph.D.}%
-\def\AMnamesProfProvost{Prof.\ Dr.\ Julien Provost}%
-\def\AMnamesProfReinhart{Prof.\ Dr.-Ing.\ Gunther Reinhart}%
-\def\AMnamesProfRixen{Prof.\ dr.ir.\ Daniel J. Rixen}%
-\def\AMnamesProfSattelmayer{Prof.\ Dr.-Ing.\ Thomas F. Sattelmayer}%
-\def\AMnamesProfSenner{Prof.\ Dr.-Ing.\ Veit Senner}%
-\def\AMnamesProfSpannerUlmer{Prof.\ Dr.\ phil.\ habil.\ Dr.-Ing.\ Birgit Spanner-Ulmer}%
-\def\AMnamesProfSpliethoff{Prof.\ Dr.-Ing.\ Hartmut Spliethoff}%
-\def\AMnamesProfStahl{Prof.\ Dr.-Ing.\ Karsten Stahl}%
-\def\AMnamesProfVogelHeuser{Prof.\ Dr.-Ing.\ Birgit Vogel-Heuser}%
-\def\AMnamesProfVolk{Prof.\ Dr.-Ing.\ Wolfram Volk}%
-\def\AMnamesProfWachtmeister{Prof.\ Dr.\ Georg Wachtmeister}%
-\def\AMnamesProfWall{Prof.\ Dr.-Ing.\ Wolfgang A. Wall}%
-\def\AMnamesProfWalter{Prof.\ Dr.\ Ulrich Walter}%
-\def\AMnamesProfWerner{Prof.\ Dr.\ Ewald Werner}%
-\def\AMnamesProfWeusterBotz{Prof.\ Dr.-Ing.\ Dirk Weuster-Botz}%
-\def\AMnamesProfZaeh{Prof.\ Dr.-Ing.\ Michael Zäh}%
-\def\AMnamesProfZimmermann{Prof.\ Dr.\ Markus Zimmermann}%
-%
-% School of Informatics
-\def\AMnamesProfAlthoff{Prof.\ Dr.-Ing.\ Matthias Althoff}%
-\def\AMnamesProfBurschka{Prof.\ Dr.-Ing.\ Darius Burschka}%
-\def\AMnamesProfKnoll{Prof.\ Dr.-Ing.\ habil.\ Alois C. Knoll}%
-\def\AMnamesProfPretschner{Prof.\ Dr.\ Alexander Pretschner}%
-%
+
+\def\AMnamesProfRixen{Prof.\ Dr.\ Iulian OBER}%
 %
 % >>> CONTENTS OF FILE source/ED/AM/Modules/AMnames.sty: <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 %==================
@@ -5711,7 +5658,7 @@
                         \bfseries\AMlangGerEng{Themen}{Topics} & #4\\%
                     \fi%
                     % Draw contact information
-                    \rule{0pt}{1.5em}\bfseries\AMlangGerEng{Betreuer}{Advisor} & #5\\%
+                    \rule{0pt}{1.5em}\bfseries\AMlangGerEng{Betreuer}{Company Mentor} & #5\\%
                     & #6%
                 \end{tabular}%
             }%
@@ -6764,7 +6711,7 @@
 	{\sffamily\fontsize{12pt}{14pt}\selectfont\noindent%
 	\begin{tabular}{@{}p{0.22\textwidth}p{0.75\textwidth}}%
 		\bfseries \AMlangGerEng{Themenstellende/r}{Supervisor} & #1 \newline\AMlangChair\\\\%
-		\ifthenelse{\equal{#2}{}}{}{\bfseries \AMlangGerEng{Betreuer/Betreuerin}{Advisor} & #2 \newline\AMlangChair\\\\}% (Optional)
+		\ifthenelse{\equal{#2}{}}{}{\bfseries \AMlangGerEng{Betreuer/Betreuerin}{Mentor} & #2 \newline\AMlangChair\\\\}% (Optional)
 		\bfseries \AMlangGerEng{Eingereicht von}{Submitted by} & #3\\\\%
 		\bfseries \AMlangGerEng{Eingereicht am}{Submitted on} & #4 in \AMaddressCityChair\\%
 	\end{tabular}}%
